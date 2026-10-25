@@ -1,0 +1,12 @@
+"dataset","check","value","passed"
+"stationary","VaR 0.9 optimal score minimum",5.55111512312578e-16,TRUE
+"stationary","VaR 0.95 optimal score minimum",1.96634375448923e-13,TRUE
+"stationary","VaR 0.99 optimal score minimum",1.10484538184963e-13,TRUE
+"stationary","EXP 0.96561 optimal score minimum",1.49796841597549e-13,TRUE
+"stationary","EXP 0.98761 optimal score minimum",5.79406661538329e-12,TRUE
+"stationary","EXP 0.99855 optimal score minimum",5.59215000695001e-12,TRUE
+"stationary","VaRES 0.754 optimal score minimum",2.41602116091144e-09,TRUE
+"stationary","VaRES 0.875 optimal score minimum",8.49721429330152e-09,TRUE
+"stationary","VaRES 0.975 optimal score minimum",1.44511568163364e-08,TRUE
+"structural_volatility","resetting report counts reproduced",0,TRUE
+"structural_shape","resetting report counts reproduced",0,TRUE

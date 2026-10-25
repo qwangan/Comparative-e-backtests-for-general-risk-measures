@@ -1,4 +1,6 @@
 # FUNCTIONS
+# Forecasting and legacy score helpers retained from the original study.
+# Revised comparative tests and plots are in refined-tests.R and Plotting.R.
 
 # ===========================================================
 # Scoring functions
